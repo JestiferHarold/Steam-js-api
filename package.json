@@ -1,0 +1,13 @@
+{
+  "name": "steam-api",
+  "packageManager": "yarn@4.6.0",
+  "type": "module",
+  "scripts": {
+    "start": "node main",
+    "build" : "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.21",
+    "typescript": "^5.8.3"
+  }
+}

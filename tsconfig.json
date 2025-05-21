@@ -1,0 +1,9 @@
+     {
+       "compilerOptions": {
+         "target": "es5",  // Specify the target JavaScript version
+         "module": "commonjs", // Or other module system
+         "outDir": "./dist",   // Output directory for compiled JavaScript
+         "rootDir": "./src"   // Root directory for TypeScript files
+       },
+       "include": ["src/**/*"] // Include all files in the src directory
+     }
